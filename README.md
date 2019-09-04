@@ -10,5 +10,5 @@
   * Process basic commands for pins (Servo, AW, etc.)
 
 ### Compatibility
-  Designed for and tested in ESP8266
+  Designed for and tested on ESP8266
   
